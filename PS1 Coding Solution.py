@@ -1,10 +1,5 @@
 """
     Solution for the Modular Exponentiation PS1 - CS5800 Algorithms
-
-    Team Members:
-        1) Aditya Shanmugham (NUID : 002738073)
-        2) Gugan Kathiresan  (NUID : 002756523)
-        3) Maria Anson       (NUID : 002931419)
 """
 
 # step 1 : get the inputs and convert them into integers
